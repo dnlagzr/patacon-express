@@ -1,2 +1,2 @@
-## Welcome to Patacon express
+## Welcome to Patacón express
 Aquí meto de todo
